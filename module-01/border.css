@@ -1,0 +1,16 @@
+h1{
+    border-style:dashed;
+    border-style:double;
+    border-style: groove;
+    border-style: hidden;
+    border-style: inherit;
+    border-style: initial;
+    border-style: inset;
+    border-style: outset;
+}
+.my-div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 100px 0px 0px 0px;
+}

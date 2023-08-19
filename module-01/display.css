@@ -1,0 +1,12 @@
+p{
+    display: block;
+    display: contents;
+    display: flex;
+    display: flow-root;
+    display: grid;
+    display: inline;
+    display: inline-block;
+    display: inline-flexbox;
+    display: inline-table;
+    display: list-item;
+}

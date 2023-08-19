@@ -1,0 +1,28 @@
+/*---element selector---*/
+h1{
+    color:brown;
+    font-size: 50px;
+}
+p{
+    color: chocolate;
+    font-size: 40px;
+}
+/*---class selector---*/
+.my-class{
+    color: aqua;
+    font-size: 60px;
+}
+/*---id selector---*/
+#my-id{
+    color: blueviolet;
+    font-size: 40px;
+}
+/*---universal selector---*/
+*{
+    color: chartreuse;
+}
+/*---group selector---*/
+h1,h2,h3{
+    color: rgb(215, 13, 13);
+    font-size: 80px;
+}

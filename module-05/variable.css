@@ -1,0 +1,11 @@
+:root{
+    --colorPrimary:#22ff;
+    --fontPrimary:50px;
+    --fontFamily:verdana;
+}
+
+p{
+    color: var( --colorPrimary);
+    font-size: var(--fontPrimary);
+    font-family: var(--fontFamily);
+}

@@ -1,0 +1,10 @@
+body{
+   /* background-color: bisque;*/
+
+   background-image: url(background.jpeg);
+   background-repeat: no-repeat;
+   object-fit: cover;
+   background-position: center;
+   background-attachment: fixed;
+
+}

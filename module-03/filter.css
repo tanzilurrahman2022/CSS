@@ -1,0 +1,13 @@
+img{
+    width: 300px;
+    height: auto;
+    filter: brightness(100%);
+    filter: blur(1px);
+    filter: invert(100);
+    filter: saturate(5);
+    filter: contrast(200%);
+    filter: opacity(50%);
+    filter: hue-rotate(1000deg);
+    filter: grayscale(100%);
+    filter: sepia(80);
+}

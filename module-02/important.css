@@ -1,0 +1,26 @@
+.btn{
+    background-color: red !important;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.btn{
+    background-color: pink;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.btn{
+    background-color: yellowgreen;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
